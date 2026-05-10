@@ -1,1 +1,0 @@
-Drop all your photos in this folder, then double-click generate.bat
